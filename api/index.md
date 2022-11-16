@@ -13,10 +13,10 @@ Visual Studio Code is built with extensibility in mind. From the UI to the editi
 
 This documentation describes:
 
-* How to build, run, debug, test, and publish an extension
-* How to take advantage of VS Code's rich Extension API
-* Where to find [guides](https://code.visualstudio.com/api/extension-guides/overview) and [code samples](https://github.com/microsoft/vscode-extension-samples) to help get you started
-* Following our [UX guidelines](/api/ux-guidelines/overview) for best practices
+* How to build, run, debug, test, and publish an extension.
+* How to take advantage of VS Code's rich Extension API.
+* Where to find [guides](https://code.visualstudio.com/api/extension-guides/overview) and [code samples](https://github.com/microsoft/vscode-extension-samples) to help get you started.
+* Following our [UX guidelines](/api/ux-guidelines/overview) for best practices.
 
 Code samples are available at [Microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples).
 
@@ -26,11 +26,11 @@ If you are looking for published extensions, head to the [VS Code Extension Mark
 
 Here are some examples of what you can achieve with the Extension API:
 
-* Change the look of VS Code with a color or file icon theme - [Theming](/api/extension-capabilities/theming)
-* Add custom components & views in the UI - [Extending the Workbench](/api/extension-capabilities/extending-workbench)
-* Create a Webview to display a custom webpage built with HTML/CSS/JS - [Webview Guide](/api/extension-guides/webview)
-* Support a new programming language - [Language Extensions Overview](/api/language-extensions/overview)
-* Support debugging a specific runtime - [Debugger Extension Guide](/api/extension-guides/debugger-extension)
+* Change the look of VS Code with a color or file icon theme - [Theming](/api/extension-capabilities/theming).
+* Add custom components & views in the UI - [Extending the Workbench](/api/extension-capabilities/extending-workbench).
+* Create a Webview to display a custom webpage built with HTML/CSS/JS - [Webview Guide](/api/extension-guides/webview).
+* Support a new programming language - [Language Extensions Overview](/api/language-extensions/overview).
+* Support debugging a specific runtime - [Debugger Extension Guide](/api/extension-guides/debugger-extension).
 
 If you'd like to have a more comprehensive overview of the Extension API, refer to the [Extension Capabilities Overview](/api/extension-capabilities/overview) page. [Extension Guides Overview](/api/extension-guides/overview) also includes a list of code samples and guides that illustrate various Extension API usage.
 
